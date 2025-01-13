@@ -69,15 +69,18 @@ I've had the privilege of working with cross-functional teams to deliver critica
 ## 📜 Certifications
 
 - **Red Hat Certifications**
-  - RHCSA – Red Hat Certified System Administrator
-  - RHEL – Red Hat Enterprise Linux
+  - [RHCSA – Red Hat Certified System Administrator](https://rhtapps.redhat.com/verify?certId=190-177-568)
+  - [RHEL – Red Hat Enterprise Linux](https://rhtapps.redhat.com/verify?certId=190-177-568)
+
 - **Alibaba Cloud Certifications**
-  - ACA – Cloud Security
-  - ACA – Cloud Computing
-  - ACP – Cloud Computing
+  - [ACA – Cloud Security](https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_89622aae5d5b298d81de00f6d61cb28e.png)
+  - [ACA – Cloud Computing](https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_ce107c8599b4c3af9498b7aaa332e029.png)
+  - [ACP – Cloud Computing](https://aliyun-aps-cloud-public.oss-cn-hangzhou.aliyuncs.com/img_538432be2ffe642aaaa61a7fe6fd5ed9.jpg)
+
 - **Zstack Cloud Computing**
-  - ZCCT – Technical Certification
-  - ZCCC – Consultant Certification
+  - [ZCCT – Technical Certification](https://zstack-cloud.com/ct/ZCCT221143244-LAXMAN%20CHAUDHARY.png)
+  - [ZCCC – Consultant Certification](https://zstack-cloud.com/ct/ZCCC220953038-LAXMAN%20CHAUDHARY.png)
+
 
 ---
 
