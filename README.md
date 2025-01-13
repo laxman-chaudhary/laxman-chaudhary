@@ -14,22 +14,42 @@ I've had the privilege of working with cross-functional teams to deliver critica
 
 ## 💼 Work Experience
 
-### DevOps Engineer (Freelance) at Slash Plus Pvt. Ltd.
-- Migrated legacy applications to modern infrastructures with near-zero downtime.
-- Implemented 3-tier architecture for enhanced scalability and security.
-- Reduced operational costs through server optimization.
+### **DevOps Engineer (Freelance)** at Slash Plus Pvt. Ltd. *(Apr 2024 – Present)*
+- Migrated applications to modern infrastructures with near-zero downtime.
+- Deployed software solutions like **Vehicle Tracking Systems**, **Digital Signage Apps**, and more.
+- Implemented 3-tier architecture for scalability, security, and reliability.
+- Reduced operational costs through server optimization and resource management.
 
-### DevOps Engineer at Midas Health Services
-- Containerized Laravel applications, cutting deployment times to 15 minutes.
-- Deployed monitoring tools for system reliability using **Prometheus** and **Grafana**.
-- Conducted DevOps workshops to upskill team members.
+### **DevOps Engineer** at Midas Health Services *(Apr 2024 – Jan 2025)*
+- Containerized Laravel applications, reducing deployment times to 15 minutes.
+- Deployed monitoring tools (**Prometheus**, **Grafana**) to boost reliability.
+- Shifted legacy client applications to modern architectures for scalability.
+- Conducted workshops to upskill team members on **Linux** and **DevOps** best practices.
 
-### System & Cloud Engineer at Telenet Pvt. Ltd.
-- Led **Alibaba Cloud** operations in Nepal.
+### **System & Cloud Engineer** at Telenet Pvt. Ltd. *(Feb 2021 – Mar 2024)*
+- Managed **Alibaba Cloud** operations in Nepal, improving performance and reliability.
 - Engineered backup and disaster recovery solutions for clients.
-- Improved operational efficiency by 70% through automation.
+- Improved operational efficiency by 70% through automation and efficient client support.
 
-*For more details on my professional experience, visit [my LinkedIn](https://www.linkedin.com).*
+### **System Engineer (Freelance)** at Nepse Alpha Pvt. Ltd. *(May 2020 – June 2021)*
+- Designed and deployed secure, scalable cloud-based architectures.
+- Implemented reliable database systems and automated backup solutions.
+
+### **IT Officer** at Integrated Services Pvt. Ltd. *(Mar 2020 – Feb 2021)*
+- Collaborated on ERP system design and implementation.
+- Resolved 95% of user issues within 24 hours.
+
+### **IT Associate** at Aloft Kathmandu Thamel *(Jan 2020 – Mar 2020)*
+- Managed IT infrastructure and resolved technical issues efficiently.
+- Configured property management systems for seamless operations.
+
+### **System Administrator** at Data Hub Pvt. Ltd. *(Jul 2019 – Oct 2019)*
+- Resolved 95% of client tickets within SLAs, ensuring high customer satisfaction.
+- Optimized Linux servers and enhanced system security.
+
+### **IT Officer** at Irish Media Group *(Nov 2017 – June 2019)*
+- Maintained hardware and software, resolving issues on the same day.
+- Managed user accounts and implemented data security measures.
 
 ---
 
