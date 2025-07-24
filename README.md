@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Laxman Chaudhary
 
 ## 🌍 About Me
-I'm a **DevOps and Cloud Engineer** with over 7 years of experience in building, automating, and managing scalable, secure infrastructures across multi-cloud platforms like **AWS**, **Alibaba Cloud**, and **GCP**. I specialize in **containerization (Docker)**, **automation with Linux scripting (Bash)**, and designing **CI/CD pipelines**.
+I'm a **DevOps and Cloud Engineer** with over 8 years of experience in building, automating, and managing scalable, secure infrastructures across multi-cloud platforms like **AWS**, **Alibaba Cloud**, and **GCP**. I specialize in **containerization (Docker)**, **automation with Linux scripting (Bash)**, and designing **CI/CD pipelines**.
 
 My expertise lies in:
 - Cloud migration
@@ -13,15 +13,23 @@ I've had the privilege of working with cross-functional teams to deliver critica
 ---
 
 ## 💼 Work Experience
+### **Senior DevOps Engineer at** at [PortPro](https://portpro.io) *(Jul 2025 – Present)*
+- Designed and maintained CI/CD pipelines using GitLab, GitHub, Terraform, and Ansible for seamless deployments.
+- Architected and managed cloud infrastructure on AWS and GCP, including EC2, VPC, RDS (PostgreSQL), Lambda, Fargate, and Kubernetes.
+- Optimized and maintained PostgreSQL and MongoDB databases for high availability and performance.
+- Implemented monitoring and alerting solutions to ensure infrastructure reliability and incident response.
+- Collaborated cross-functionally with product managers, designers, and engineers in Agile teams.
+- Engineered scalable architecture and automation tools to support future growth and resilience.
+- Led DevOps initiatives while contributing to backend development using Node.js and modern best practices.
 
-##**DevOps & Cloud Consultant (Freelance)** at **[GadgetByte Nepal] (https://gadgetbytenepal.com)** ***(Apr 2025 – Present)***
+### **DevOps & Cloud Consultant (Freelance)** at [GadgetByte Nepal](https://gadgetbytenepal.com) *(Apr 2025 – Present)*
 - Migrated infrastructure from a traditional setup to Docker-based cloud architecture.
 - Built GitLab CI/CD pipelines for automated deployments with zero downtime and rollback capabilities.
 - Deployed Next.js frontend, Next.js backend, and Laravel API as separate containers on dedicated servers.
 - Set up high-availability PostgreSQL with read replicas, reducing cloud costs by 40–45%.
 - Implemented monitoring using Prometheus and Grafana, and added security alerts with OSSEC.
 
-### **DevOps Engineer (Freelance)** at [Slash Plus Pvt. Ltd.](https://slashplus.com.np) *(Apr 2024 – Present)*
+### **DevOps & Cloud Consultant (Freelance)** at [Slash Plus Pvt. Ltd.](https://slashplus.com.np) *(Apr 2024 – Present)*
 - Migrated applications to modern infrastructures with near-zero downtime.
 - Deployed software solutions like **Vehicle Tracking Systems**, **Digital Signage Apps**, and more.
 - Implemented 3-tier architecture for scalability, security, and reliability.
@@ -33,7 +41,7 @@ I've had the privilege of working with cross-functional teams to deliver critica
 - Shifted legacy client applications to modern architectures for scalability.
 - Conducted workshops to upskill team members on **Linux** and **DevOps** best practices.
 
-### **System & Cloud Engineer** at [Telenet Pvt. Ltd.](https://telenet.com.np) *(Feb 2021 – Mar 2024)*
+### **DevOps & Cloud Engineer** at [Telenet Pvt. Ltd.](https://telenet.com.np) *(Feb 2021 – Mar 2024)*
 - Managed **Alibaba Cloud** operations in Nepal, improving performance and reliability.
 - Engineered backup and disaster recovery solutions for clients.
 - Improved operational efficiency by 70% through automation and efficient client support.
