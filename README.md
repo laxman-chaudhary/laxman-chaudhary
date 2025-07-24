@@ -14,6 +14,13 @@ I've had the privilege of working with cross-functional teams to deliver critica
 
 ## 💼 Work Experience
 
+##**DevOps & Cloud Consultant (Freelance)** at **[GadgetByte Nepal] (https://gadgetbytenepal.com)** ***(Apr 2025 – Present)***
+- Migrated infrastructure from a traditional setup to Docker-based cloud architecture.
+- Built GitLab CI/CD pipelines for automated deployments with zero downtime and rollback capabilities.
+- Deployed Next.js frontend, Next.js backend, and Laravel API as separate containers on dedicated servers.
+- Set up high-availability PostgreSQL with read replicas, reducing cloud costs by 40–45%.
+- Implemented monitoring using Prometheus and Grafana, and added security alerts with OSSEC.
+
 ### **DevOps Engineer (Freelance)** at [Slash Plus Pvt. Ltd.](https://slashplus.com.np) *(Apr 2024 – Present)*
 - Migrated applications to modern infrastructures with near-zero downtime.
 - Deployed software solutions like **Vehicle Tracking Systems**, **Digital Signage Apps**, and more.
