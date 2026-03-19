@@ -13,7 +13,7 @@ I've had the privilege of working with cross-functional teams to deliver critica
 ---
 
 ## 💼 Work Experience
-### **Senior DevOps Engineer at** at [PortPro](https://portpro.io) *(Jul 2025 – Present)*
+### **Senior DevOps Engineer at** at [PortPro](https://portpro.io) *(Jul 2025 – Jan 2026)*
 - Designed and maintained CI/CD pipelines using GitLab, GitHub, Terraform, and Ansible for seamless deployments.
 - Architected and managed cloud infrastructure on AWS and GCP, including EC2, VPC, RDS (PostgreSQL), Lambda, Fargate, and Kubernetes.
 - Optimized and maintained PostgreSQL and MongoDB databases for high availability and performance.
